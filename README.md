@@ -41,3 +41,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Dhruvin3103&theme=onedark" alt="Dhruvin3103">
   </a>
 </p> 
+
+The snake's eating up my contributions🐍.
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=nightowl" alt="" /></a> </p>
