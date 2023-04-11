@@ -3,9 +3,9 @@
 
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
-- 🌱 I’m currently learning **Machine Learning ,Web Development.**
+- 🌱 I’m currently learning **Machine Learning ,Web Development[Django].**
 
-- 👯 I’m looking to collaborate on **on AI/ML projects.**
+- 👯 I’m looking to collaborate on **on AI/ML projects or Django projects.**
 
 - 🤝 I’m looking for help with **internships.**
 
