@@ -28,16 +28,16 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p class="dark"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devvp8&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="devvp8" /></p>
+<p class="dark"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvin3103&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Dhruvin3103" /></p>
 
-<p class="dark">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvp8&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="devvp8" /></p>
+<p class="dark">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvin3103&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Dhruvin3103" /></p>
 
-<p class="dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvp8&locale=en&layout=compact&theme=blueberry" alt="devvp8" /></p>
+<p class="dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvin3103&locale=en&layout=compact&theme=blueberry" alt="Dhruvin3103" /></p>
 
-![Dev Patel's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DEVVP8&theme=react)
+![Dev Patel's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dhruvin3103&theme=react)
 
  <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devvp8&theme=onedark" alt="devvp8">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dhruvin3103&theme=onedark" alt="Dhruvin3103">
   </a>
 </p> 
