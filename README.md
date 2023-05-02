@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Nitesh Chawda</h1>
-<h3 align="center">A passionate Backend Deveplor currently learnig ML.</h3>
+<h3 align="center">A passionate Backend Deveplor currently learning ML.</h3>
 
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
