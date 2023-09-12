@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **internships.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dhruvin3103]([https://github.com/devvp8](https://github.com/Dhruvin3103))
+- 👨‍💻 All of my projects are available at [https://github.com/Dhruvin3103]([https://github.com/Dhruvin3103](https://github.com/Dhruvin3103))
 
 - 📫 How to reach me **dcchawda2003@gmail.com**
 
@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/dev-atul-patel-15b0b6231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-atul-patel-15b0b6231" height="30" width="40" /></a>
-<a href="https://instagram.com/devvp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devvp8" height="30" width="40" /></a> -->
+
 </p>
 <h3 align="left">Profile Views:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvin3103&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvin3103" /> </p>
@@ -34,7 +33,7 @@
 
 <p class="dark">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvin3103&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="dhruvin3103" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvin3103" alt="Dhruvin3103" /></a> </p>
+
 
 <p class="dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvin3103&locale=en&layout=compact&theme=blueberry" alt="Dhruvin3103" /></p>
 
