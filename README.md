@@ -33,7 +33,7 @@
 
 <p class="dark">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvin3103&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="dhruvin3103" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvin3103" alt="Dhruvin3103" /></a> </p>
 
 <p class="dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvin3103&locale=en&layout=compact&theme=blueberry" alt="Dhruvin3103" /></p>
 
