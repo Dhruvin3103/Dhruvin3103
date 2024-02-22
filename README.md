@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Nitesh Chawda</h1>
-<h3 align="center">A passionate Backend Deveplor currently learning ML.</h3>
+<h3 align="center">A passionate Backend Deveplor.</h3>
 
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
-
-- 🌱 I’m currently learning **Machine Learning ,Web Development[Django].**
 
 - 👯 I’m looking to collaborate on **on AI/ML projects or Django projects.**
 
@@ -12,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Dhruvin3103]([https://github.com/Dhruvin3103](https://github.com/Dhruvin3103))
 
 - 📫 How to reach me **dcchawda2003@gmail.com**
+
+- 🥇 **2nd Runner up at TechnoThrive Hackathon 2023 by Yash Technologies.**
 
 - 🥇 **Top 12 at Manipal's University Datathon Sigfest 2023.**
 
