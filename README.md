@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Nitesh Chawda</h1>
 <h3 align="center">A passionate Backend Deveplor.</h3>
 
-- 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🎓 **Final Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
 - 👯 I’m looking to collaborate on **on AI/ML projects or Django projects.**
 
